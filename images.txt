@@ -4,4 +4,4 @@ loads/alpine:3.8
 guacamole/guacd:latest
 #支持私库
 #支持指定架构
---platform=linux/arm64 
+#--platform=linux/arm64 
