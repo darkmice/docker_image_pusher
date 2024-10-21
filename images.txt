@@ -3,5 +3,6 @@ mysql:8.0
 loads/alpine:3.8
 guacamole/guacd:latest
 #支持私库
+registry.roxy-wi.org/roxy-wi
 #支持指定架构
 #--platform=linux/arm64 
